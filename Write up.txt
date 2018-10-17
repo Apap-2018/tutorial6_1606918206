@@ -1,0 +1,13 @@
+Ilham Pamungkas	
+1606918206
+
+1. Perlu, karena dalam flight adalah kepemilikan pilot sehingga pilot juga harus ikut diinisiasi agar suatu flight bisa dimasukkan ke dalam pilo
+2. terjadi error karena flight harus dimiliki oleh seorang pilot
+3. code tersebut maksudnya ketika mockito telah menemukan sebuah flight berdasarkan flight number maka akan di return sebuah variabel flight
+4. sama seperti nomor 3 yaitu code tersebut maksudnya ketika mockito telah menemukan sebuah flight berdasarkan flight number maka akan di return sebuah variabel flight
+5. Mockito akan melakukan throw jika hasil sebelumnya adalah is ok
+6. code tersebut akan mengetes json yang memiliki atribut flightNumber akan dicocokkan dengan flight number yang tersedia
+7. bahwa return dari method yang diberikan annotation tersebut harus dimasukkan ke dalam response body
+
+Jmeter:
+status merah jika server down saat server tidak dapat menerima request, faktornya ada banyak misalkan terlalu banyak user, atau terdisconnect servernya misalkan
